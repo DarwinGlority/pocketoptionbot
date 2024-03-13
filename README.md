@@ -1,2 +1,2 @@
-# pocketoptionbot
-Бот для Pocket Option в Телеграме / Pocket Option Bot in Telegram
+# Бот для Pocket Option в Телеграмме
+Ссылка на бота для Pocket Option: https://t.me/boptionsb_bot
